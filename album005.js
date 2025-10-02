@@ -1,4 +1,4 @@
-// Lista de músicas
+// Funk (MIX)
 const playlist504 = [
   {
     title: "Alegra",
