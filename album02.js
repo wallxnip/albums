@@ -1,5 +1,5 @@
 // Lista de músicas
-const playlist3 = [
+const playlist2 = [
   {
     title: "So Good",
     artist: "Summer (MIX)",
