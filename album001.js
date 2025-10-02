@@ -1,5 +1,5 @@
 // Drilland
-const playlist2 = [
+const playlist500 = [
   {
     title: "MOOD",
     artist: "Drilland",
