@@ -1,5 +1,5 @@
 // Lista de músicas
-const playlist2 = [
+const playlist1 = [
   {
     title: "MOOD",
     artist: "Drilland (Melodic Drill Type Beat)",
