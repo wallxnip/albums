@@ -1,27 +1,9 @@
 // Alone (EDM)
 const playlist505 = [
   {
-    title: "All My People",
+    title: "Ma Chérie",
     artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/sifzwg.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Baby",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/gvfkhd.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Blinding Lights",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/ewzfy3.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Call Me Maybe",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/ouaevb.mp3",
+    file: "https://files.catbox.moe/977crp.mp3",
     cover: "https://i.postimg.cc/NFYngYXj/1.png"
   },
   {
@@ -31,9 +13,129 @@ const playlist505 = [
     cover: "https://i.postimg.cc/NFYngYXj/1.png"
   },
   {
+    title: "Kiss Me",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/8zb396.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Tired",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/52a0nh.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "One More Night",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/0yy4cy.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Whistle",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/clnap6.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Good Feeling",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/6hhq9g.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "From Up Above",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/hizynu.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Sorry",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/gm6wog.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Ghost",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/82i0xx.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "What Do You Mean",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/gopd4e.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Baby",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/gvfkhd.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
     title: "Eenie Meenie",
     artist: "Alone (EDM)",
     file: "https://files.catbox.moe/wtqbfg.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "What the Hell",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/3xrm6t.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Call Me Maybe",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/ouaevb.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Good Time",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/1uhcca.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Get Back",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/ju5v9f.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Million",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/aje5j6.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Taste",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/fm5uun.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Someone To You",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/rqr6ty.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Waka Waka",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/1sjgjw.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "All My People",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/sifzwg.mp3",
+    cover: "https://i.postimg.cc/NFYngYXj/1.png"
+  },
+  {
+    title: "Blinding Lights",
+    artist: "Alone (EDM)",
+    file: "https://files.catbox.moe/ewzfy3.mp3",
     cover: "https://i.postimg.cc/NFYngYXj/1.png"
   },
   {
@@ -49,39 +151,9 @@ const playlist505 = [
     cover: "https://i.postimg.cc/NFYngYXj/1.png"
   },
   {
-    title: "From Up Above",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/hizynu.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Get Back",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/ju5v9f.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Ghost",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/82i0xx.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
     title: "Girl Like Me",
     artist: "Alone (EDM)",
     file: "https://files.catbox.moe/eme9nq.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Good Feeling",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/6hhq9g.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Good Time",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/1uhcca.mp3",
     cover: "https://i.postimg.cc/NFYngYXj/1.png"
   },
   {
@@ -133,12 +205,6 @@ const playlist505 = [
     cover: "https://i.postimg.cc/NFYngYXj/1.png"
   },
   {
-    title: "Kiss Me",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/8zb396.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
     title: "Kiss You",
     artist: "Alone (EDM)",
     file: "https://files.catbox.moe/8bkr3c.mp3",
@@ -157,27 +223,9 @@ const playlist505 = [
     cover: "https://i.postimg.cc/NFYngYXj/1.png"
   },
   {
-    title: "Ma Chérie",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/j9v2wp.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Million",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/aje5j6.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
     title: "On The Floor",
     artist: "Alone (EDM)",
     file: "https://files.catbox.moe/r0x5bs.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "One More Night",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/0yy4cy.mp3",
     cover: "https://i.postimg.cc/NFYngYXj/1.png"
   },
   {
@@ -199,18 +247,6 @@ const playlist505 = [
     cover: "https://i.postimg.cc/NFYngYXj/1.png"
   },
   {
-    title: "Someone To You",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/rqr6ty.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Sorry",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/gm6wog.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
     title: "Suave",
     artist: "Alone (EDM)",
     file: "https://files.catbox.moe/3zvbbf.mp3",
@@ -220,42 +256,6 @@ const playlist505 = [
     title: "Take Your Time",
     artist: "Alone (EDM)",
     file: "https://files.catbox.moe/wzaur9.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Taste",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/fm5uun.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Tired",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/52a0nh.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Waka Waka",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/1sjgjw.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "What Do You Mean",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/gopd4e.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "What the Hell",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/3xrm6t.mp3",
-    cover: "https://i.postimg.cc/NFYngYXj/1.png"
-  },
-  {
-    title: "Whistle",
-    artist: "Alone (EDM)",
-    file: "https://files.catbox.moe/clnap6.mp3",
     cover: "https://i.postimg.cc/NFYngYXj/1.png"
   },
   {
