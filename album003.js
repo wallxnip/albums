@@ -3,164 +3,164 @@ const playlist502 = [
   {
     title: "Esquecer de Tudo",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Esquecer%20de%20Tudo.mp3",
+    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/Q5x50jzkw7/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Agora",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Agora.mp3",
+    file: "https://hs2.krakenfiles.com/uploads/05-10-2025/0l87KDKhvH/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Alma de Pipa",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Alma%20de%20Pipa.mp3",
+    file: "https://hs2.krakenfiles.com/uploads/05-10-2025/t9HUIHgwea/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Carro Velho",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Carro%20Velho.mp3",
+    file: "https://hs6.krakenfiles.com/uploads/05-10-2025/3NCib3m9L7/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Copo Pro Alto",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Copo%20Pro%20Alto.mp3",
+    file: "https://hs5.krakenfiles.com/uploads/05-10-2025/8liRRbIB4M/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Coração de Aço",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Cora%C3%A7%C3%A3o%20de%20A%C3%A7o.mp3",
+    file: "https://hs2.krakenfiles.com/uploads/05-10-2025/WzC9r2yQ8O/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Coração de Carro Forte",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Cora%C3%A7%C3%A3o%20de%20Carro%20Forte.mp3",
+    file: "https://hs3.krakenfiles.com/uploads/05-10-2025/rlyQdG4dTm/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Obsessão",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Obsess%C3%A3o.mp3",
+    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/fSy8XPfs8G/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "A Fenda",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/A%20Fenda.mp3",
+    file: "https://hs3.krakenfiles.com/uploads/05-10-2025/3CUrpxk2ZR/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Preta",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Preta.mp3",
+    file: "https://hs4.krakenfiles.com/uploads/05-10-2025/maMUHpyGNd/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Vida Bagunçada",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Vida%20Bagun%C3%A7ada.mp3",
+    file: "https://hs9.krakenfiles.com/uploads/05-10-2025/pBfpUbJ5XE/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Quebra Cabeça",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Quebra%20Cabe%C3%A7a.mp3",
+    file: "https://hs7.krakenfiles.com/uploads/05-10-2025/TANeQxDJ9Y/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Shortinho Curto",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Shortinho%20Curto.mp3",
+    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/DDE0hVbFHW/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Temporal",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Temporal.mp3",
+    file: "https://hs4.krakenfiles.com/uploads/05-10-2025/rwFHCV0ggS/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Um Pedido",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Um%20Pedido.mp3",
+    file: "https://hs10.krakenfiles.com/uploads/05-10-2025/GUl2ZU4swL/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Valores",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Valores.mp3",
+    file: "https://hs4.krakenfiles.com/uploads/05-10-2025/jjGq8WxdNi/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Terrorista Memo",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Terrorista%20Memo.mp3",
+    file: "https://hs1.krakenfiles.com/uploads/05-10-2025/Z7HmQaTTgs/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Sexta-Feira",
     artist: "Hip-Hop",
-    file: "https://ia801608.us.archive.org/6/items/quebra-cabeca/Sexta-Feira.mp3",
+    file: "https://hs1.krakenfiles.com/uploads/05-10-2025/naOaUVbaza/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Seu Coração Rodou",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Seu%20Cora%C3%A7%C3%A3o%20Rodou.mp3",
+    file: "https://hs6.krakenfiles.com/uploads/05-10-2025/IIAW8Lvsjv/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Renascer",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Renascer.mp3",
+    file: "https://hs1.krakenfiles.com/uploads/05-10-2025/WNZoo0Gb8H/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Pirata de Esquina",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Pirata%20de%20Esquina.mp3",
+    file: "https://hs7.krakenfiles.com/uploads/05-10-2025/dcoZ15pbPx/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "O Amanhã Vai Ser Melhor",
     artist: "Hip-Hop",
-    file: "https://ia801608.us.archive.org/6/items/quebra-cabeca/O%20Amanh%C3%A3%20Vai%20Ser%20Melhor.mp3",
+    file: "https://hs5.krakenfiles.com/uploads/05-10-2025/uIYUHnUlHO/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Furacão de Ninar",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Furac%C3%A3o%20de%20Ninar.mp3",
+    file: "https://hs6.krakenfiles.com/uploads/05-10-2025/WoLF1cMPKC/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
 
   {
     title: "Imprevisível",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Imprevis%C3%ADvel.mp3",
+    file: "https://hs6.krakenfiles.com/uploads/05-10-2025/RDgMuEA4Ma/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Meu Melhor",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Meu%20Melhor.mp3",
+    file: "https://hs1.krakenfiles.com/uploads/05-10-2025/MdyVrI5Es8/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Nosso Plano",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Nosso%20Plano.mp3",
+    file: "https://hs5.krakenfiles.com/uploads/05-10-2025/wTD2ggzPQj/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   },
   {
     title: "Escondido",
     artist: "Hip-Hop",
-    file: "https://dn721806.ca.archive.org/0/items/quebra-cabeca/Escondido.mp3",
+    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/KsB4YhqTS9/music.m4a",
     cover: "https://i.postimg.cc/1tDTh4fd/6.jpg"
   }
 
