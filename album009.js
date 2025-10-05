@@ -3,7 +3,7 @@ const playlist508 = [
   {
     title: "Eu Quero Só Você",
     artist: "Kiko Chicabana",
-    file: "https://files.catbox.moe/y16opc.mp3",
+    file: "https://files.catbox.moe/4ke17e.mp3",
     cover: "https://i.postimg.cc/d0f98rQq/Chicabana.jpg"
   },
   {
