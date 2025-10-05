@@ -3,85 +3,85 @@ const playlist510 = [
   {
     title: "Te Quero Baby",
     artist: "Robério",
-    file: "https://files.catbox.moe/wmmdgf.mp3",
+    file: "https://hs3.krakenfiles.com/uploads/05-10-2025/m9kJSRYBtO/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Casa Comigo",
     artist: "Robério",
-    file: "https://files.catbox.moe/s3839s.mp3",
+    file: "https://hs7.krakenfiles.com/uploads/05-10-2025/vZSEcI2lSs/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "A Lua",
     artist: "Robério",
-    file: "https://files.catbox.moe/cvvgj0.mp3",
+    file: "https://hs10.krakenfiles.com/uploads/05-10-2025/NT1a2HxKsT/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "São Paulo Espera",
     artist: "Robério",
-    file: "https://files.catbox.moe/xv79mi.mp3",
+    file: "https://hs6.krakenfiles.com/uploads/05-10-2025/AGFPRCoZg6/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Atraso na pensão",
     artist: "Robério",
-    file: "https://files.catbox.moe/fmi9cq.mp3",
+    file: "https://hs10.krakenfiles.com/uploads/05-10-2025/fu78Cz4vHH/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Lá Se Vai",
     artist: "Robério",
-    file: "https://files.catbox.moe/ln60j2.mp3",
+    file: "https://hs2.krakenfiles.com/uploads/05-10-2025/1NJYm0PUhr/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Oi",
     artist: "Robério",
-    file: "https://files.catbox.moe/aof8kz.mp3",
+    file: "https://hs1.krakenfiles.com/uploads/05-10-2025/OpxfgwJO9M/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Capitão do Amor",
     artist: "Robério",
-    file: "https://files.catbox.moe/eiewst.mp3",
+    file: "https://hs9.krakenfiles.com/uploads/05-10-2025/Jp1et1ujwj/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Alô no Ar",
     artist: "Robério",
-    file: "https://files.catbox.moe/ne9wcs.mp3",
+    file: "https://hs6.krakenfiles.com/uploads/05-10-2025/ixD5dwXx0M/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Ela É Toda Boa",
     artist: "Robério",
-    file: "https://files.catbox.moe/fwfhee.mp3",
+    file: "https://hs7.krakenfiles.com/uploads/05-10-2025/5IVpmcO59T/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Não Vá (Pense Um Pouco Antes de Partir)",
     artist: "Robério",
-    file: "https://files.catbox.moe/8ci9jh.mp3",
+    file: "https://hs5.krakenfiles.com/uploads/05-10-2025/xHWDpQrQlw/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Procurando Casamento",
     artist: "Robério",
-    file: "https://files.catbox.moe/2rxwcr.mp3",
+    file: "https://hs10.krakenfiles.com/uploads/05-10-2025/8e2y0FdxjT/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Recadinho",
     artist: "Robério",
-    file: "https://files.catbox.moe/2w0z42.mp3",
+    file: "https://hs4.krakenfiles.com/uploads/05-10-2025/zS1XtP77Wd/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
   {
     title: "Todo Atrapalhado",
     artist: "Robério",
-    file: "https://files.catbox.moe/04bzoz.mp3",
+    file: "https://hs7.krakenfiles.com/uploads/05-10-2025/X8dQoIEPx9/music.m4a",
     cover: "https://i.postimg.cc/xT8JDCKG/Rob-rio.jpg"
   },
 

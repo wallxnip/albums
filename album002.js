@@ -3,98 +3,98 @@ const playlist501 = [
   {
     title: "So Good",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/So%20Good.mp3",
+    file: "https://hs3.krakenfiles.com/uploads/05-10-2025/CanWdRZqGX/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
   
   {
     title: "Hight Again",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/High%20Again.mp3",
+    file: "https://hs3.krakenfiles.com/uploads/05-10-2025/hsvKNmEDdW/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Good Feeling",
     artist: "Summer (MIX)",
-    file: "https://ia800300.us.archive.org/14/items/good-feeling_202510/Good%20Feeling.mp3",
+    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/pHVpdK8LDY/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Girls in Luv",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/Girls%20in%20Luv.mp3",
+    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/UbmAFxDLve/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Summer",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/Summer.mp3",
+    file: "https://hs5.krakenfiles.com/uploads/05-10-2025/6uQ11wwWLN/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Fall In Love",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/Fall%20In%20Love.mp3",
+    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/6wAEHXGCDC/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Deserto Rain",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/Desert%20Rain.mp3",
+    file: "https://hs3.krakenfiles.com/uploads/05-10-2025/ozqJrjBHms/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Alive",
     artist: "Summer (MIX)",
-    file: "https://ia600300.us.archive.org/14/items/good-feeling_202510/Alive.mp3",
+    file: "https://hs1.krakenfiles.com/uploads/05-10-2025/yjcwUl0YZD/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Holiday",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/Holiday.mp3",
+    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/eyL16DwZWM/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Infinity",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/Infinity%202008.mp3",
+    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/xImc6K9r0A/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Love Again",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/Love%20Again.mp3",
+    file: "https://hs1.krakenfiles.com/uploads/05-10-2025/aCP2sFU8nb/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Play Hard",
     artist: "Summer (MIX)",
-    file: "https://ia800300.us.archive.org/14/items/good-feeling_202510/Play%20Hard.mp3",
+    file: "https://hs10.krakenfiles.com/uploads/05-10-2025/Nf2LaD8cXh/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Player In C",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/Prayer%20in%20C.mp3",
+    file: "https://hs7.krakenfiles.com/uploads/05-10-2025/60m9A4e4hv/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 
   {
     title: "Stereo Love",
     artist: "Summer (MIX)",
-    file: "https://dn720706.ca.archive.org/0/items/good-feeling_202510/Stereo%20Love.mp3",
+    file: "https://hs10.krakenfiles.com/uploads/05-10-2025/IJvnq8J3QE/music.m4a",
     cover: "https://i.postimg.cc/J4rFvrmT/8.jpg"
   },
 

@@ -3,25 +3,25 @@ const playlist508 = [
   {
     title: "Eu Quero Só Você",
     artist: "Kiko Chicabana",
-    file: "https://files.catbox.moe/4ke17e.mp3",
+    file: "https://hs9.krakenfiles.com/uploads/05-10-2025/7AuEay7ZEp/music.m4a",
     cover: "https://i.postimg.cc/d0f98rQq/Chicabana.jpg"
   },
   {
     title: "Á Sua Maneira",
     artist: "Kiko Chicabana",
-    file: "https://files.catbox.moe/jo9njo.mp3",
+    file: "https://hs6.krakenfiles.com/uploads/05-10-2025/LDELW9RDWO/music.m4a",
     cover: "https://i.postimg.cc/d0f98rQq/Chicabana.jpg"
   },
   {
     title: "Malandramente",
     artist: "Kiko Chicabana",
-    file: "https://files.catbox.moe/u91rbt.mp3",
+    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/nudlnnMaPY/music.m4a",
     cover: "https://i.postimg.cc/d0f98rQq/Chicabana.jpg"
   },
   {
     title: "Te Amo Sim",
     artist: "Kiko Chicabana",
-    file: "https://files.catbox.moe/7ccaaj.mp3",
+    file: "https://hs3.krakenfiles.com/uploads/05-10-2025/ITbYay3FUF/music.m4a",
     cover: "https://i.postimg.cc/d0f98rQq/Chicabana.jpg"
   },
 

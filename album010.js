@@ -3,19 +3,19 @@ const playlist509 = [
   {
     title: "Lua",
     artist: "Sky love",
-    file: "https://files.catbox.moe/ghnevg.mp3",
+    file: "https://hs4.krakenfiles.com/uploads/05-10-2025/QxbReUgV4R/music.m4a",
     cover: "https://i.postimg.cc/wBrkhLx9/Sou-Love.jpg"
   },
   {
     title: "250",
     artist: "Sky Love",
-    file: "https://files.catbox.moe/y01bl4.mp3",
+    file: "https://hs3.krakenfiles.com/uploads/05-10-2025/chdcxzGe3k/music.m4a",
     cover: "https://i.postimg.cc/wBrkhLx9/Sou-Love.jpg"
   },
   {
     title: "Luana",
     artist: "Sky Love",
-    file: "https://files.catbox.moe/oguiu6.mp3",
+    file: "https://hs4.krakenfiles.com/uploads/05-10-2025/04vqF7OEE3/music.m4a",
     cover: "https://i.postimg.cc/wBrkhLx9/Sou-Love.jpg"
   },
 
