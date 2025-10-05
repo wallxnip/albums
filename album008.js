@@ -13,7 +13,7 @@ const playlist507 = [
     cover: "https://i.postimg.cc/pXg3vxVc/Pisadinha-do-Vaqueiro.jpg"
   },
   {
-    title: "Farra 100 Limite",
+    title: "Farra sem Limite",
     artist: "Francildo Silva",
     file: "https://files.catbox.moe/87odja.mp3",
     cover: "https://i.postimg.cc/pXg3vxVc/Pisadinha-do-Vaqueiro.jpg"
