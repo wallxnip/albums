@@ -1,6 +1,12 @@
 // Pisadinha do Vaqueiro
 const playlist507 = [
   {
+    title: "Estilo Capa Loka",
+    artist: "Francildo Silva",
+    file: "https://files.catbox.moe/y1z3wy.mp3",
+    cover: "https://i.postimg.cc/pXg3vxVc/Pisadinha-do-Vaqueiro.jpg"
+  },
+  {
     title: "Ela Kika Diferente",
     artist: "Francildo Silva",
     file: "https://files.catbox.moe/ro3awu.mp3",
