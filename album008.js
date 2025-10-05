@@ -51,7 +51,7 @@ const playlist507 = [
   {
     title: "Aliança",
     artist: "Francildo Silva",
-    file: "https://files.catbox.moe/vn2ams.mp3",
+    file: "https://hs10.krakenfiles.com/uploads/05-10-2025/DeWigyhCmL/music.m4a",
     cover: "https://i.postimg.cc/pXg3vxVc/Pisadinha-do-Vaqueiro.jpg"
   },
   {
