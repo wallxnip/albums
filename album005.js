@@ -3,7 +3,7 @@ const playlist504 = [
   {
     title: "Alegra",
     artist: "Funk (MIX)",
-    file: "https://files.catbox.moe/tg9gli.mp3",
+    file: "https://files.catbox.moe/x5vjjd.mp3",
     cover: "https://i.postimg.cc/Y2fVdGcG/4.png"
   },
   {
