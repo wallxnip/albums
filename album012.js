@@ -20,7 +20,7 @@ const playlist511 = [
   },
   {
     title: "Let's Go",
-    artist: "Post Malone",
+    artist: "Post Malone, Beau Young Prince",
     file: "https://hs5.krakenfiles.com/uploads/10-10-2025/3Vtoc4DBNR/music.m4a",
     cover: "https://i.postimg.cc/cCtYCdnK/wK.webp"
   },
