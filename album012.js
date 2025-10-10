@@ -21,7 +21,7 @@ const playlist511 = [
   {
     title: "Let's Go",
     artist: "Post Malone",
-    file: "https://hs4.krakenfiles.com/uploads/10-10-2025/b2FqNVr28G/music.m4a",
+    file: "https://hs5.krakenfiles.com/uploads/10-10-2025/3Vtoc4DBNR/music.m4a",
     cover: "https://i.postimg.cc/cCtYCdnK/wK.webp"
   },
   
