@@ -36,6 +36,11 @@ const playlist506 = [
     file: "https://hs3.krakenfiles.com/uploads/05-10-2025/4FTZitFF0q/music.m4a",
     cover: "https://i.postimg.cc/25Yrw3LF/Temporal.webp"
   },
-
-
+  {
+    title: "In This Shirt",
+    artist: "The Irrepressibles",
+    file: "https://hs1.krakenfiles.com/uploads/13-10-2025/R37f66wjAG/music.m4a",
+    cover: "https://i.postimg.cc/25Yrw3LF/Temporal.webp"
+  },
+ 
 ];
