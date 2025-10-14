@@ -1,6 +1,12 @@
 // Funk (MIX)
 const playlist504 = [
   {
+    title: "Universo Paralelo",
+    artist: "Funk (MIX)",
+    file: "https://hs9.krakenfiles.com/uploads/14-10-2025/6tyWwfJkW5/music.m4a",
+    cover: "https://i.postimg.cc/GhD4gwNY/Funk.webp"
+  },
+  {
     title: "Alegra",
     artist: "Funk (MIX)",
     file: "https://hs3.krakenfiles.com/uploads/05-10-2025/aDn5Pq6qtG/music.m4a",
@@ -103,7 +109,31 @@ const playlist504 = [
     cover: "https://i.postimg.cc/GhD4gwNY/Funk.webp"
   },
 
+  {
+    title: "Olha Como Ela é Gata - Silicone",
+    artist: "Funk (MIX)",
+    file: "https://hs7.krakenfiles.com/uploads/14-10-2025/4K22TTyLw6/music.m4a",
+    cover: "https://i.postimg.cc/GhD4gwNY/Funk.webp"
+  },
+  {
+    title: "Paraiso",
+    artist: "Funk (MIX)",
+    file: "https://hs2.krakenfiles.com/uploads/14-10-2025/bCzeqGC2R1/music.m4a",
+    cover: "https://i.postimg.cc/GhD4gwNY/Funk.webp"
+  },
+  {
+    title: "Ritmada do Fifty",
+    artist: "Funk (MIX)",
+    file: "https://hs5.krakenfiles.com/uploads/14-10-2025/VohnY35IUL/music.m4a",
+    cover: "https://i.postimg.cc/GhD4gwNY/Funk.webp"
+  },
 
-
-
+  {
+    title: "Se Quiser Me Ver",
+    artist: "Funk (MIX)",
+    file: "https://hs9.krakenfiles.com/uploads/14-10-2025/d18cJxSfL5/music.m4a",
+    cover: "https://i.postimg.cc/GhD4gwNY/Funk.webp"
+  },
+  
+  
 ];
