@@ -97,8 +97,31 @@ const playlist501 = [
     file: "https://hs10.krakenfiles.com/uploads/05-10-2025/IJvnq8J3QE/music.m4a",
     cover: "https://i.postimg.cc/J44t5H8J/Summer.webp"
   },
-
-
+  {
+    title: "Here Comes the Sun",
+    artist: "",
+    file: "https://hs3.krakenfiles.com/uploads/13-10-2025/dnRopCvKi0/music.m4a",
+    cover: "https://i.postimg.cc/J44t5H8J/Summer.webp"
+  },
+  {
+    title: "Hold On",
+    artist: ""Summer (MIX)",
+    file: "https://hs1.krakenfiles.com/uploads/13-10-2025/C5X4nh6hnx/music.m4a",
+    cover: "https://i.postimg.cc/J44t5H8J/Summer.webp"
+  },
+  {
+    title: "Live a Life You Will Remember",
+    artist: ""Summer (MIX)",
+    file: "https://hs6.krakenfiles.com/uploads/14-10-2025/e55wULjxF0/music.m4a",
+    cover: "https://i.postimg.cc/J44t5H8J/Summer.webp"
+  },
+  {
+    title: "You're Somebody Else",
+    artist: ""Summer (MIX)",
+    file: "https://hs4.krakenfiles.com/uploads/14-10-2025/VrjTKXGg4x/music.m4a",
+    cover: "https://i.postimg.cc/J44t5H8J/Summer.webp"
+  },
+  
 
 
 
