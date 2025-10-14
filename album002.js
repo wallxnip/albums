@@ -15,6 +15,13 @@ const playlist501 = [
   },
 
   {
+    title: "Here Comes the Sun",
+    artist: "Summer (MIX)",
+    file: "https://hs3.krakenfiles.com/uploads/13-10-2025/dnRopCvKi0/music.m4a",
+    cover: "https://i.postimg.cc/J44t5H8J/Summer.webp"
+  },
+
+  {
     title: "Good Feeling",
     artist: "Summer (MIX)",
     file: "https://hs8.krakenfiles.com/uploads/05-10-2025/pHVpdK8LDY/music.m4a",
@@ -95,12 +102,6 @@ const playlist501 = [
     title: "Stereo Love",
     artist: "Summer (MIX)",
     file: "https://hs10.krakenfiles.com/uploads/05-10-2025/IJvnq8J3QE/music.m4a",
-    cover: "https://i.postimg.cc/J44t5H8J/Summer.webp"
-  },
-  {
-    title: "Here Comes the Sun",
-    artist: "Summer (MIX)",
-    file: "https://hs3.krakenfiles.com/uploads/13-10-2025/dnRopCvKi0/music.m4a",
     cover: "https://i.postimg.cc/J44t5H8J/Summer.webp"
   },
   {
