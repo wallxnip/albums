@@ -4,7 +4,7 @@ const playlist503 = [
     title: "Best of Me",
     artist: "NEFFEX",
     file: "https://hs10.krakenfiles.com/uploads/15-10-2025/2Yk4gZUnen/music.m4a",
-    cover: ""
+    cover: "https://i.postimg.cc/7hdyhNmP/Neffex.webp"
   },
   {
     title: "Life",
