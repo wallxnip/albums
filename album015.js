@@ -10,7 +10,7 @@ const playlist514 = [
     title: "From the Ashes",
     artist: "Naraka: Bladepoint",
     file: "https://hs9.krakenfiles.com/uploads/20-10-2025/e0LwpWLUgi/music.m4a",
-    cover: "https://i.postimg.cc/NFdmV5Hh/nk.webp"
+    cover: "https://i.postimg.cc/d35rXLTp/jjlin.webp"
   },
   {
     title: "The Bullet Or The Blade",
