@@ -4,7 +4,7 @@ const playlist514 = [
     title: "The Flames Of Fate",
     artist: "Naraka: Bladepoint",
     file: "https://hs10.krakenfiles.com/uploads/20-10-2025/zwM1jA7sRg/music.m4a",
-    cover: "https://i.postimg.cc/NFdmV5Hh/nk.webp"
+    cover: "https://i.postimg.cc/R09MyGQW/nk.webp"
   },
   {
     title: "From the Ashes",
