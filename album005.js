@@ -9,7 +9,7 @@ const playlist504 = [
   {
     title: "Alegra",
     artist: "Funk (MIX)",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Funk (MIX)/Alegra.mp3,
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Funk (MIX)/Alegra.mp3",
     cover: "https://i.postimg.cc/RhYxG80b/Funk.webp"
   },
   {
