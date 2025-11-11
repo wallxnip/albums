@@ -1,30 +1,27 @@
-// Chicabana
+// Axé das Antigas
 const playlist508 = [
   {
     title: "Eu Quero Só Você",
     artist: "Kiko Chicabana",
-    file: "https://hs9.krakenfiles.com/uploads/05-10-2025/7AuEay7ZEp/music.m4a",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Axé das Antigas/Eu Quero Só Você.mp3",
     cover: "https://i.postimg.cc/ZKc6xvMD/Chicabana.webp"
   },
   {
     title: "Á Sua Maneira",
     artist: "Kiko Chicabana",
-    file: "https://hs6.krakenfiles.com/uploads/05-10-2025/LDELW9RDWO/music.m4a",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Axé das Antigas/Á Sua Maneira.mp3",
     cover: "https://i.postimg.cc/ZKc6xvMD/Chicabana.webp"
   },
   {
     title: "Malandramente",
     artist: "Kiko Chicabana",
-    file: "https://hs8.krakenfiles.com/uploads/05-10-2025/nudlnnMaPY/music.m4a",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Axé das Antigas/Malandramente.mp3",
     cover: "https://i.postimg.cc/ZKc6xvMD/Chicabana.webp"
   },
   {
     title: "Te Amo Sim",
     artist: "Kiko Chicabana",
-    file: "https://hs3.krakenfiles.com/uploads/05-10-2025/ITbYay3FUF/music.m4a",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Axé das Antigas/Te Amo Sim.mp3",
     cover: "https://i.postimg.cc/ZKc6xvMD/Chicabana.webp"
-  },
-
-
-
+  }
 ];
