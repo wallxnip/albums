@@ -3,19 +3,22 @@ const playlist514 = [
   {
     title: "The Flames Of Fate",
     artist: "Naraka: Bladepoint",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/GamesXD/The Flames Of Fate.mp3",
+    file: "https://hs10.krakenfiles.com/uploads/20-10-2025/zwM1jA7sRg/music.m4a",
     cover: "https://i.postimg.cc/R09MyGQW/nk.webp"
   },
   {
     title: "From the Ashes",
     artist: "Naraka: Bladepoint",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/GamesXD/From the Ashes.mp3",
+    file: "https://hs9.krakenfiles.com/uploads/20-10-2025/e0LwpWLUgi/music.m4a",
     cover: "https://i.postimg.cc/d35rXLTp/jjlin.webp"
   },
   {
     title: "The Bullet Or The Blade",
     artist: "Capcom",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/GamesXD/The Bullet Or The Blade.mp3",
+    file: "https://hs1.krakenfiles.com/uploads/20-10-2025/VrfrKhIZsz/music.m4a",
     cover: "https://i.postimg.cc/kGTKZBt0/re4.webp"
-  }
+  },
+  
+  
+  
 ];
