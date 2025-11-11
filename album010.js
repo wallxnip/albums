@@ -7,9 +7,9 @@ const playlist509 = [
     cover: "https://i.postimg.cc/mg4BBtLK/Sou-Love.webp"
   },
   {
-    title: "250",
+    title: "2050",
     artist: "Sky Love",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Sky Love do Forró/250.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Sky Love do Forró/2050.mp3",
     cover: "https://i.postimg.cc/mg4BBtLK/Sou-Love.webp"
   },
   {
