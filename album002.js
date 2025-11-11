@@ -16,9 +16,9 @@ const playlist501 = [
   },
   
   {
-    title: "Hight Again",
+    title: "High Again",
     artist: "Summer (MIX)",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Summer (MIX)/Hight Again.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Summer (MIX)/High Again.mp3",
     cover: "https://i.postimg.cc/J44t5H8J/Summer.webp"
   },
 
