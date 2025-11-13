@@ -117,7 +117,7 @@ const playlist502 = [
   {
     title: "Renascer",
     artist: "Hip-Hop",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Hip-Hop (2025)/Renascer.mp3a",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Hip-Hop (2025)/Renascer.mp3",
     cover: "https://i.postimg.cc/s2XSNZy8/Hip-Hop.webp"
   },
   {
