@@ -1,7 +1,7 @@
 // Zentopia
 const playlist516 = [
   {
-    title: "Meditação Guiada (Som de Chuva)",
+    title: "Som de Água (Relaxantes)",
     artist: "Zentopia",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Zentopia/Som de Água (Relaxantes).mp3",
     cover: "https://i.postimg.cc/g2jTYgGg/Zentopia.webp"
