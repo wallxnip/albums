@@ -4,7 +4,7 @@ const playlist507 = [
     title: "Estilo Capa Loka",
     artist: "Francildo Silva",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Pisadinha do Vaqueiro/Estilo Capa Loka.mp3",
-    cover: "https://i.postimg.cc/2SYbMkP4/Pisadinha-do-Vaqueiro.webp"
+    cover: "https://lh3.googleusercontent.com/PBw8TlYiDpAX6bYbFsfrsSo8eKIpfowL0de7VpvneSmiyp7HMLnIDdjJM9INWHWZ8jAdkaBQKb9sjSXiMw=w544-h544-l90-rj"
   },
   {
     title: "Ela Kika Diferente",
