@@ -1,11 +1,3 @@
-// Drilland
-updateArtistHeader({
-    name: visiblePlaylistName,
-    listeners: "2,5M ouvintes mensais",
-    banner: "img/banner.jpg"
-});
-
-
 const playlist500 = [
   {
     title: "MOOD",
