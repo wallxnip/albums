@@ -1,4 +1,11 @@
 // Drilland
+updateArtistHeader({
+    name: visiblePlaylistName,
+    listeners: "2,5M ouvintes mensais",
+    banner: "img/banner.jpg"
+});
+
+
 const playlist500 = [
   {
     title: "MOOD",
@@ -73,4 +80,6 @@ const playlist500 = [
 ];
 
 playlist500.name = "Drilland";
+playlist500.listeners = "2,5M ouvintes mensais";
+playlist500.banner = "img/banner.jpg";
 playlist500.cover = "https://i.postimg.cc/85J3d5YQ/Drilland.webp";
