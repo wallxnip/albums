@@ -71,3 +71,6 @@ const playlist500 = [
 
 
 ];
+
+playlist500.name = "Drilland";
+playlist500.cover = "https://i.postimg.cc/85J3d5YQ/Drilland.webp";
