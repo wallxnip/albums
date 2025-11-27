@@ -67,7 +67,7 @@ const playlist500 = [
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Melodic Drill Type/SMILE.mp3",
     cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
   },
-
+  {
     bgnome: "Nadson O Ferinha",
     ouvintes: 6980000,
     bgcover: "https://i.postimg.cc/X7v3MS0g/1000385742.jpg"
