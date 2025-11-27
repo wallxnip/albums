@@ -71,4 +71,6 @@ const playlist500 = [
     bgnome: "Nadson O Ferinha",
     ouvintes: 6980000,
     bgcover: "https://i.postimg.cc/X7v3MS0g/1000385742.jpg"
+  }
+
 ];
