@@ -71,7 +71,9 @@ const playlist500 = [
 
 ];
 
-playlist500.name = "Drilland";
-playlist500.listeners = "2,5M ouvintes mensais";
-playlist500.banner = "img/banner.jpg";
-playlist500.cover = "https://i.postimg.cc/85J3d5YQ/Drilland.webp";
+  // Simulando dados dinâmicos do artista
+  const artista = {
+    nome: "Nadson O Ferinha",
+    ouvintes: 6980000,
+    capa: "https://i.postimg.cc/X7v3MS0g/1000385742.jpg"
+  };
