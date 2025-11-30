@@ -47,7 +47,7 @@ const playlist522 = [
     artist: "Luka",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Luka (MIX)/Difícil pra você.mp3",
     cover: "https://i.postimg.cc/nL9tbTzd/luka.webp"
-  }
+  },
   {
     title: "Livro Aberto",
     artist: "Luka",
