@@ -22,7 +22,7 @@ const playlist521 = [
     title: "Pássaro De Fogo.mp3",
     artist: "Paula Fernandes",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Sertanejo (Clássico)/Pássaro De Fogo.mp3",
-    cover: "https://i.postimg.cc/q70G05bj/Passaro-De-Fogo.webp"
+    cover: "https://i.postimg.cc/W3vdKdnk/paula.webp"
   },
   {
     title: "Loka",
