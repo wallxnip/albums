@@ -28,7 +28,7 @@ const playlist523 = [
     title: "Your Love",
     artist: "The Outfield",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Your Love.mp3",
-    cover: "https://i.postimg.cc/HW8RCFbW/The-Outfield.webp"
+    cover: "https://i.postimg.cc/4333BpmZ/The-Outfield.webp"
   },
   {
     title: "Like a Virgin",
