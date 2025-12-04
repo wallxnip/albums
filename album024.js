@@ -16,7 +16,7 @@ const playlist523 = [
     title: "Dreams (Will Come Alive)",
     artist: "2 Brothers On The 4th Floor",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Dreams (Will Come Alive).mp3",
-    cover: "https://i.postimg.cc/hjjsMQ1d/2-Brothers-On-The-4th-Floor.webp"
+    cover: "https://i.postimg.cc/VN5C5x9J/2-Brothers-On-The-4th-Floor.webp"
   },
   {
     title: "Time After Time",
