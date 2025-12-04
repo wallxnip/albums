@@ -22,7 +22,7 @@ const playlist523 = [
     title: "Time After Time",
     artist: "Cyndi Lauper",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Time After Time.mp3",
-    cover: "https://i.postimg.cc/nLzy6rH4/Cyndi-Lauper.webp"
+    cover: "https://i.postimg.cc/7LHzDvcL/Cyndi-Lauper.webp"
   },
   {
     title: "Your Love",
