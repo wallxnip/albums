@@ -10,7 +10,7 @@ const playlist523 = [
     title: "Tarzan Boy",
     artist: "Baltimora",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Tarzan Boy.mp3",
-    cover: "https://i.postimg.cc/XqPz9kMS/Baltimora.webp"
+    cover: "https://i.postimg.cc/v80QT4BQ/Baltimora.webp"
   },
   {
     title: "Dreams (Will Come Alive)",
