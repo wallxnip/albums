@@ -4,7 +4,7 @@ const playlist523 = [
     title: "Girls Just Want to Have Fun",
     artist: "Cyndi Lauper",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Girls Just Want to Have Fun.mp3",
-    cover: "https://i.postimg.cc/ZnVg7z1x/Photo-Room-20251204-134532.webp"
+    cover: "https://i.postimg.cc/7LHzDvcL/Cyndi-Lauper.webp"
   },
   {
     title: "Tarzan Boy",
