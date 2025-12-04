@@ -40,6 +40,6 @@ const playlist523 = [
     title: "Don't Stop Believin",
     artist: "Journey",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Don't Stop Believin.mp3",
-    cover: "https://i.postimg.cc/TwD9ZMFj/Journey.webp"
+    cover: "https://i.postimg.cc/R0qg9bNs/Journey.webp"
   }
 ];
