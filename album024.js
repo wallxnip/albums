@@ -4,7 +4,7 @@ const playlist523 = [
     title: "Girls Just Want to Have Fun",
     artist: "Cyndi Lauper",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Girls Just Want to Have Fun.mp3",
-    cover: "https://i.postimg.cc/1tBxVFRd/Cyndi-Lauper.webp"
+    cover: "https://i.postimg.cc/gkzZFb6v/Cyndi_Lauper.webp"
   },
   {
     title: "Tarzan Boy",
@@ -22,7 +22,7 @@ const playlist523 = [
     title: "Time After Time",
     artist: "Cyndi Lauper",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Time After Time.mp3",
-    cover: "https://i.postimg.cc/1tBxVFRd/Cyndi-Lauper.webp"
+    cover: "https://i.postimg.cc/gkzZFb6v/Cyndi_Lauper.webp"
   },
   {
     title: "Your Love",
