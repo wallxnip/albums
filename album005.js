@@ -1,6 +1,12 @@
 // Funk (MIX)
 const playlist504 = [
   {
+    title: "Toma Botadinha",
+    artist: "Funk (MIX)",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Funk (MIX)/Toma Botadinha.mp3",
+    cover: "https://i.postimg.cc/y8g4Xwxy/funk.webp"
+  },
+  {
     title: "Universo Paralelo",
     artist: "Funk (MIX)",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Funk (MIX)/Universo Paralelo.mp3",
