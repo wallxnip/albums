@@ -183,9 +183,9 @@ const playlist504 = [
   },
 
   {
-    title: "Te Sorri No Baile",
+    title: "Te Sarrei No Baile",
     artist: "Mc Pepeu, Mc Arizinho, Vitin Do MT, MC Gueguel",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/MC Arizinho (LoveFunk)/Te Sorri No Baile.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/MC Arizinho (LoveFunk)/Te Sarrei No Baile.mp3",
     cover: "https://lh3.googleusercontent.com/1znyXFBbW2kpe5aBOiyfdIyjjm0-FghSwSgcLEB67jYihHRoh0Z2j3MTPy_yzoFx_7oJD_UoA_1jEtq3=w544-h544-l90-rj"
   },
 
