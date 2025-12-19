@@ -85,16 +85,16 @@ const playlist504 = [
   },
 
   {
-    title: "O Que Tá Acontecendo",
+    title: "O Que Que Tá Acontecendo",
     artist: "MC Arizinho",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/MC Arizinho (LoveFunk)/O Que Tá Acontecendo.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/MC Arizinho (LoveFunk)/O Que Que Tá Acontecendo.mp3",
     cover: "https://lh3.googleusercontent.com/m_36hT0_JjQm1KCvtgls8pild_MNqG1_iWBBK4haP7bvAO97zFJ_oLZ2xZS5mBH0iOpCzXLijtxC8tTbLg=w544-h544-l90-rj"
   },
   
   {
-    title: "O Que Tá Acontecendo 2",
+    title: "O Que Que Tá Acontecendo 2",
     artist: "MC Arizinho",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/MC Arizinho (LoveFunk)/O Que Tá Acontecendo 2.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/MC Arizinho (LoveFunk)/O Que Que Tá Acontecendo 2.mp3",
     cover: "https://lh3.googleusercontent.com/iVgApYcHlVC5IXhEZx3hWDeblIu3YaM0E4-_x91wF6d8O-B2vly6ZUnnDB2Wxi7qDm2MMsJ7Kpo2w_Vq1w=w544-h544-l90-rj"
   },
 
