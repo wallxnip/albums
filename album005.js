@@ -176,9 +176,9 @@ const playlist504 = [
   },
 
   {
-    title: "Te Respeitei",
+    title: "Te Resetei",
     artist: "MC Arizinho",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/MC Arizinho (LoveFunk)/Te Respeitei.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/MC Arizinho (LoveFunk)/Te Resetei.mp3",
     cover: "https://lh3.googleusercontent.com/FFeppIUt-NXinZFojwLiYB0tkaOuGeQJOXXuTI2_SLZPHi6mqbip8G2DU7et-WjtpiCnXac3u15biSg=w544-h544-l90-rj"
   },
 
