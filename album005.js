@@ -211,7 +211,7 @@ const playlist504 = [
   },
 
   {
-    title: "É Que Eu Te Sarrei,
+    title: "É Que Eu Te Sarrei",
     artist: "DJ THG, Mc Arizinho, Tavin",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/MC Arizinho (LoveFunk)/É Que Eu Te Sarrei.mp3",
     cover: "https://lh3.googleusercontent.com/m-skSa-8rx1XeiLed9BQEpYm3TCDHRHxfl4d8UmEqKMos2CqqluMOblm3KhlW4LNLvHdMmlwBPvzNEFb0g=w544-h544-l90-rj"
