@@ -1,9 +1,63 @@
 // KLB
-const playlist526 = [
+const playlist525 = [
   {
-    title: "Pane no Sistema",
-    artist: "Grego do Piseiro & Paulo Pires",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Grego do Piseiro/Pane no Sistema.mp3",
-    cover: "https://lh3.googleusercontent.com/CwFnVlWDyolBLFyrzRX9JEdE52gmzdjDKGG3wotLNb8hISPOWFrmHJ-Nm5fkMH94T36-apTnvykwTos6Dw=w544-h544-l90-rj"
+    title: "A Cada Dez Palavras",
+    artist: "KLB",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/A Cada Dez Palavras.mp3",
+    cover: "https://i.scdn.co/image/ab67616d0000b27308984f04e789b0162dacede3"
+  },
+  {
+    title: "A Dor Desse Amor",
+    artist: "KLB",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/A Dor Desse Amor.mp3",
+    cover: "https://i.scdn.co/image/ab67616d0000b27308984f04e789b0162dacede3"
+  },
+  {
+    title: "Ela Não Está Aqui",
+    artist: "KLB",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/Ela Não Está Aqui.mp3",
+    cover: "https://i.scdn.co/image/ab67616d0000b27308984f04e789b0162dacede3"
+  },
+  {
+    title: "Estou Em Suas Mãos",
+    artist: "KLB",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/Estou Em Suas Mãos.mp3",
+    cover: "https://i.scdn.co/image/ab67616d0000b27308984f04e789b0162dacede3"
+  },
+  {
+    title: "Giuliana",
+    artist: "KLB",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/Giuliana.mp3",
+    cover: "https://i.scdn.co/image/ab67616d0000b27308984f04e789b0162dacede3"
+  },
+  {
+    title: "Minha Timidez",
+    artist: "KLB",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/Minha Timidez.mp3",
+    cover: "https://i.scdn.co/image/ab67616d0000b27308984f04e789b0162dacede3"
+  },
+  {
+    title: "Obsessão",
+    artist: "KLB",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/Obsessão.mp3",
+    cover: "https://i.scdn.co/image/ab67616d0000b27308984f04e789b0162dacede3"
+  },
+  {
+    title: "Olhar 43",
+    artist: "KLB",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/Olhar 43.mp3",
+    cover: "https://i.scdn.co/image/ab67616d0000b27308984f04e789b0162dacede3"
+  },
+  {
+    title: "Porque Tem Que Ser Assim",
+    artist: "KLB",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/Porque Tem Que Ser Assim.mp3",
+    cover: "https://i.scdn.co/image/ab67616d0000b27308984f04e789b0162dacede3"
+  },
+  {
+    title: "Um Anjo",
+    artist: "KLB",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/Um Anjo.mp3",
+    cover: "https://i.scdn.co/image/ab67616d0000b27308984f04e789b0162dacede3"
   }
 ];
