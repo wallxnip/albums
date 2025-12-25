@@ -28,7 +28,7 @@ const playlist528 = [
     title: "Sou Sua Recaída",
     artist: "Milsinho Toque Dez",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Toque Dez/Sou Sua Recaída.mp3",
-    cover: "https://i.imgur.com/9ZQZQ0n.jpg"
+    cover: "https://lh3.googleusercontent.com/A5P8syU_D0iwghdja2Xt43DM-izKGXjHH3DiPpSiccYMT82J53pNHT_idV49bJw_indjrU3P-4dpMyII=w544-h544-l90-rj"
   },
   {
     title: "Traumatizei",
