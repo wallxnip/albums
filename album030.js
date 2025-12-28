@@ -21,7 +21,7 @@ const playlist529 = [
   {
     title: "Menina Pavoro",
     artist: "Cintura de Mola",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Cintura de Mola/Menina Pavoro.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Cintura de Mola/Menina Pavorô.mp3",
     cover: "https://lh3.googleusercontent.com/7UDZtu3gz2KuD0B27MZr7pzdlIl5xRjKRYeUx5YiVS-Gr7UoKPqDS7fYdPhPfvKclwS9zBwCawyW6f_V=w544-h544-l90-rj"
   },
   {
