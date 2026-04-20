@@ -20,7 +20,8 @@ const playlist514 = [
   },
   {
     title: "Through the Darkness",
-    src: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/GamesXD/Through the Darkness.mp3",
+    artist: "Capcom",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/GamesXD/Through the Darkness.mp3",
     cover: "https://i.postimg.cc/fbdb3ntm/re9.webp"
   }
 ];
