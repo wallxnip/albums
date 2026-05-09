@@ -3,19 +3,19 @@ const playlist509 = [
   {
     title: "Lua",
     artist: "Sky Love",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Sky Love do Forró/Lua.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sky Love do Forró/Lua.mp3",
     cover: "https://i.postimg.cc/DfXHdt1m/sky.webp"
   },
   {
     title: "2050",
     artist: "Sky Love",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Sky Love do Forró/2050.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sky Love do Forró/2050.mp3",
     cover: "https://i.postimg.cc/DfXHdt1m/sky.webp"
   },
   {
     title: "Luana",
     artist: "Sky Love",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Sky Love do Forró/Luana.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Sky Love do Forró/Luana.mp3",
     cover: "https://i.postimg.cc/DfXHdt1m/sky.webp"
   },
 ];

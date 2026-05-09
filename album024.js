@@ -3,43 +3,43 @@ const playlist523 = [
   {
     title: "Girls Just Want to Have Fun",
     artist: "Cyndi Lauper",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Girls Just Want to Have Fun.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Girls Just Want to Have Fun.mp3",
     cover: "https://i.postimg.cc/7LHzDvcL/Cyndi-Lauper.webp"
   },
   {
     title: "Tarzan Boy",
     artist: "Baltimora",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Tarzan Boy.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Tarzan Boy.mp3",
     cover: "https://i.postimg.cc/v80QT4BQ/Baltimora.webp"
   },
   {
     title: "Dreams (Will Come Alive)",
     artist: "2 Brothers On The 4th Floor",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Dreams (Will Come Alive).mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Dreams (Will Come Alive).mp3",
     cover: "https://i.postimg.cc/VN5C5x9J/2-Brothers-On-The-4th-Floor.webp"
   },
   {
     title: "Time After Time",
     artist: "Cyndi Lauper",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Time After Time.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Time After Time.mp3",
     cover: "https://i.postimg.cc/7LHzDvcL/Cyndi-Lauper.webp"
   },
   {
     title: "Your Love",
     artist: "The Outfield",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Your Love.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Your Love.mp3",
     cover: "https://i.postimg.cc/4333BpmZ/The-Outfield.webp"
   },
   {
     title: "Like a Virgin",
     artist: "Madonna",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Like a Virgin.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Like a Virgin.mp3",
     cover: "https://i.postimg.cc/zX0n2G3X/Like-a-Virgin.webp"
   },
   {
     title: "Don't Stop Believin",
     artist: "Journey",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Flash Back (Clássico)/Don't Stop Believin.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Flash Back (Clássico)/Don't Stop Believin.mp3",
     cover: "https://i.postimg.cc/R0qg9bNs/Journey.webp"
   }
 ];
