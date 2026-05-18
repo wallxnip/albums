@@ -129,7 +129,7 @@ const playlist530 = [
   {
     title: "Girl On The Moon",
     artist: "Naya",
-    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Girl On The Moon.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Naya (Ruby)/Girl On The Moon.mp3",
     cover: "https://i.postimg.cc/PqNHyC5w/Naya-Ruby.webp"
   },
   {
