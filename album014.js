@@ -13,58 +13,135 @@ const playlist513 = [
     cover: "https://i.postimg.cc/W16f1s6Y/Tusa.webp"
   },
   {
-    title: "Despacito",
-    artist: "Luis Fonsi & Daddy Yankee",
-    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Despacito.mp3",
-    cover: "https://open.voidware.de/track/6habFhsOp2NvshLv26DqMb"
+    title: "Alguien Conmigo",
+    artist: "CNCO",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Alguien Conmigo.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Baila Morena",
+    artist: "Héctor & Tito",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Baila Morena.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Borracho Y Loco",
+    artist: "Yandel",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Borracho Y Loco.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
   },
   {
     title: "Calma",
     artist: "Pedro Capó & Farruko",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Calma.mp3",
-    cover: "https://open.voidware.de/track/1xQ6trAsedVPCdbtDAmk0c"
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
   },
   {
     title: "Danza Kuduro",
     artist: "Don Omar & Lucenzo",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Danza Kuduro.mp3",
-    cover: "https://open.voidware.de/track/0DQ1ITjI0YoLFzuADN1ZBW"
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Despacito",
+    artist: "Luis Fonsi & Daddy Yankee",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Despacito.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
   },
   {
     title: "El Perdón",
     artist: "Nicky Jam & Enrique Iglesias",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/El Perdón.mp3",
-    cover: "https://open.voidware.de/track/50iBJRk4SMp7b5Ne9nS1rk"
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
   },
   {
-    title: "Tusa",
-    artist: "Karol G & Nicki Minaj",
-    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Tusa.mp3",
-    cover: "https://open.voidware.de/track/7k4t7uLgtOxPwTpFmtJNTY"
+    title: "La La La",
+    artist: "Shakira",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/La La La.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
   },
   {
-    title: "Sofia",
-    artist: "Álvaro Soler",
-    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Sofia.mp3",
-    cover: "https://open.voidware.de/track/2bgTY4UwhfBYhGT4HUYStN"
+    title: "La Tortura",
+    artist: "Shakira & Alejandro Sanz",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/La Tortura.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Llamada",
+    artist: "J Álvarez",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Llamada.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Llamada Perdida",
+    artist: "Prince Royce",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Llamada Perdida.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Me Equivoqué",
+    artist: "CD9",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Me Equivoqué.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Muriendo",
+    artist: "KHEA",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Muriendo.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "No Hay Nada Imposible",
+    artist: "Chayanne",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/No Hay Nada Imposible.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
   },
   {
     title: "Perro Fiel",
     artist: "Shakira & Nicky Jam",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Perro Fiel.mp3",
-    cover: "https://open.voidware.de/track/6R7gkzq6bNWUC0leQjT0Q9"
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
   },
   {
     title: "Rabiosa",
     artist: "Shakira & Pitbull",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Rabiosa.mp3",
-    cover: "https://open.voidware.de/track/2dlln9jfJ4i0lY8Yk6N3f3"
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Responde",
+    artist: "Brytiago",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Responde.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Sofia",
+    artist: "Álvaro Soler",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Sofia.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Solo Tu",
+    artist: "CNCO",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Solo Tu.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Tusa",
+    artist: "Karol G & Nicki Minaj",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Tusa.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
+  },
+  {
+    title: "Vem Dancar Kuduro",
+    artist: "Latino",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Vem Dancar Kuduro.mp3",
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
   },
   {
     title: "Waiting for Tonight",
     artist: "Jennifer Lopez",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Waiting for Tonight.mp3",
-    cover: "https://open.voidware.de/track/0uGgYZIi8VYx0YuzH0d8rU"
+    cover: "https://i.postimg.cc/85J3d5YQ/Drilland.webp"
   }
-  
 ];
