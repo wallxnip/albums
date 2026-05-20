@@ -12,7 +12,7 @@ const playlist513 = [
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Tusa.mp3",
     cover: "https://i.postimg.cc/W16f1s6Y/Tusa.webp"
   },
-    {
+  {
     title: "Despacito",
     artist: "Luis Fonsi & Daddy Yankee",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (MIX)/Despacito.mp3",
