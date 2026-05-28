@@ -170,7 +170,7 @@ const playlist502 = [
 
 
 // Wallker (REMIX)
-const playlist500 = [
+const playlist534 = [
   {
     title: "Aetheris",
     artist: "Xenø Fader",
