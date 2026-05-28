@@ -167,3 +167,170 @@ const playlist502 = [
 
 
 ];
+
+
+// Wallker (REMIX)
+const playlist500 = [
+  {
+    title: "Aetheris",
+    artist: "Xenø Fader",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Aetheris.mp3",
+    cover: "#"
+  },
+  {
+    title: "All I Know",
+    artist: "Axel Johansson, JANARAE",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/All I Know.mp3",
+    cover: "#"
+  },
+  {
+    title: "Another Life",
+    artist: "Lucas & Steve, Alida",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Another Life.mp3",
+    cover: "#"
+  },
+  {
+    title: "Broken",
+    artist: "Amél",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Broken.mp3",
+    cover: "#"
+  },
+  {
+    title: "Can't Reach You",
+    artist: "XZIO Music",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Can't Reach You.mp3",
+    cover: "#"
+  },
+  {
+    title: "Close Your Eyes",
+    artist: "KSHMR",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Close Your Eyes.mp3",
+    cover: "#"
+  },
+  {
+    title: "Cold Goodbye",
+    artist: "LadyMelody",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Cold Goodbye.mp3",
+    cover: "#"
+  },
+  {
+    title: "Crazy",
+    artist: "Tungevaag",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Crazy.mp3",
+    cover: "#"
+  },
+  {
+    title: "Dancers In The Dark",
+    artist: "K-391, Modi",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Dancers In The Dark.mp3",
+    cover: "#"
+  },
+  {
+    title: "Don't Go",
+    artist: "Ashlee Walker",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Don't Go.mp3",
+    cover: "#"
+  },
+  {
+    title: "Find My Way",
+    artist: "Albert Vishi",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Find My Way.mp3",
+    cover: "#"
+  },
+  {
+    title: "I Need Your Love",
+    artist: "Audio Vibes Alliance",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/I Need Your Love.mp3",
+    cover: "#"
+  },
+  {
+    title: "I Still Need You",
+    artist: "XZIO Music",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/I Still Need You.mp3",
+    cover: "#"
+  },
+  {
+    title: "I'll Be There",
+    artist: "Audio Vibes Alliance (feat. Yassine DJS)",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/I'll Be There.mp3",
+    cover: "#"
+  },
+  {
+    title: "Invisible",
+    artist: "Julius Dreisig, Zeus X Crona",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Invisible.mp3",
+    cover: "#"
+  },
+  {
+    title: "Kiss Forever",
+    artist: "Ashlee Walker",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Kiss Forever.mp3",
+    cover: "#"
+  },
+  {
+    title: "Nothing At All",
+    artist: "Remedeus",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Nothing At All.mp3",
+    cover: "#"
+  },
+  {
+    title: "One of Us - Fan Edition",
+    artist: "Axel Johansson, ANARAE",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/One of Us - Fan Edition.mp3",
+    cover: "#"
+  },
+  {
+    title: "Remember Our Summer",
+    artist: "AbdielGE",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Remember Our Summer.mp3",
+    cover: "#"
+  },
+  {
+    title: "Right Side of my Brain",
+    artist: "DJ Johnny JSA",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Right Side of my Brain.mp3",
+    cover: "#"
+  },
+  {
+    title: "Save Me",
+    artist: "Jerber lazaro",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Save Me.mp3",
+    cover: "#"
+  },
+  {
+    title: "Stay Forever",
+    artist: "Elian Skye",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Stay Forever.mp3",
+    cover: "#"
+  },
+  {
+    title: "Takeaway",
+    artist: "Arvy Nacht",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Takeaway.mp3",
+    cover: "#"
+  },
+  {
+    title: "Tired - Kygo Remix",
+    artist: "Alan Walker, Gavin James, Kygo",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Tired - Kygo Remix.mp3",
+    cover: "#"
+  },
+  {
+    title: "Turn The Lights Off",
+    artist: "AlanthorDJ (feat. JJON)",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Turn The Lights Off.mp3",
+    cover: "#"
+  },
+  {
+    title: "Turn the Lights Off - Fan Edition",
+    artist: "Dj Quba, Sandra K, ISHNLV",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Turn the Lights Off - Fan Edition.mp3",
+    cover: "#"
+  },
+  {
+    title: "Wherever You Are",
+    artist: "Martin Garrix, DubVision, Shaun Farrugia",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Wherever You Are.mp3",
+    cover: "#"
+  }
+];
