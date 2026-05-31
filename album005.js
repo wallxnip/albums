@@ -226,13 +226,32 @@ const playlist504 = [
   
 ];
 
+
 // Anos 2000
 const playlist536 = [
- {
-    title: "Único Erro",
-    artist: "Mc Arizinho, DJ TAK VADIÃO",
-    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Único Erro.mp3",
-    cover: "https://lh3.googleusercontent.com/6qF_A3xxSt0MYaol5MEqdjsIf_i2Olr5tUTvGIiNZqvn87iRqJYqWsjA8Is4Gr93rVkZgmkoVTK2xTfkVw=w544-h544-l90-rj"
-  },
+{
+  title: "Amor de Chocolate",
+  artist: "Naldo Benny",
+  file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ritmo Quente/Amor de Chocolate.mp3",
+  cover: "https://i.postimg.cc/JnPBnkcM/Amor-de-Chocolate-cover-art.webp"
+},
+{
+  title: "Dança Kuduro",
+  artist: "Daddy Kall feat Latino",
+  file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ritmo Quente/Dança Kuduro.mp3",
+  cover: "https://i.postimg.cc/BZ7Kf2nN/Latino.webp"
+},
+{
+  title: "Festa no Apê",
+  artist: "Latino",
+  file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ritmo Quente/Festa no Apê.mp3",
+  cover: "https://i.postimg.cc/BZ7Kf2nN/Latino.webp"
+},
+{
+  title: "Renata",
+  artist: "Latino",
+  file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ritmo Quente/Renata.mp3",
+  cover: "https://i.postimg.cc/BZ7Kf2nN/Latino.webp"
+}
 
 ];
