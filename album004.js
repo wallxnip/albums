@@ -180,6 +180,12 @@ const playlist503 = [
 // Wallker (PLAY)
 const playlist505 = [
   {
+    title: "Eae Mozão 2",
+    artist: "DJ Ivis",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Eae Mozão 2.mp3",
+    cover: "https://i.postimg.cc/zDPFxLKN/Mozao2.webp"
+  },
+  {
     title: "Rebeca",
     artist: "MC Livinho",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Rebeca.mp3",
