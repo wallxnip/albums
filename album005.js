@@ -225,3 +225,14 @@ const playlist504 = [
   }
   
 ];
+
+// Anos 2000
+const playlist536 = [
+ {
+    title: "Único Erro",
+    artist: "Mc Arizinho, DJ TAK VADIÃO",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Único Erro.mp3",
+    cover: "https://lh3.googleusercontent.com/6qF_A3xxSt0MYaol5MEqdjsIf_i2Olr5tUTvGIiNZqvn87iRqJYqWsjA8Is4Gr93rVkZgmkoVTK2xTfkVw=w544-h544-l90-rj"
+  },
+
+];
