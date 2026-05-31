@@ -176,3 +176,14 @@ const playlist503 = [
   },
   
 ];
+
+// Wallker (PLAY)
+const playlist505 = [
+  {
+    title: "Trust Me",
+    artist: "NEFFEX",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/NEFFEX/Trust Me.mp3",
+    cover: "https://i.postimg.cc/7hdyhNmP/Neffex.webp"
+  },
+  
+];
