@@ -233,6 +233,12 @@ const playlist532 = [
     cover: "https://i.postimg.cc/SQgbDpy0/Vem-Quebrando.webp"
   },
   {
+    title: "Bebê Confesso 2",
+    artist: "Mc Kadu, Veiga no Beat",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Bebê Confesso 2.mp3",
+    cover: "https://i.postimg.cc/0NhxQWK9/Bebe-Confesso-2-cover-art.webp"
+  },
+  {
     title: "Você é Gostosa",
     artist: "MC Kevin o Chris",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Você é Gostosa.mp3",
