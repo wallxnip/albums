@@ -227,7 +227,7 @@ const playlist504 = [
 ];
 
 
-// Anos 2000
+// Ritmo Quente
 const playlist536 = [
 {
   title: "Amor de Chocolate",
