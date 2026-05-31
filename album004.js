@@ -180,10 +180,22 @@ const playlist503 = [
 // Wallker (PLAY)
 const playlist505 = [
   {
-    title: "Trust Me",
-    artist: "NEFFEX",
-    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/NEFFEX/Trust Me.mp3",
-    cover: "https://i.postimg.cc/7hdyhNmP/Neffex.webp"
+    title: "Rebeca",
+    artist: "MC Livinho",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Rebeca.mp3",
+    cover: "https://i.postimg.cc/25GCYN75/Rebeca.webp"
   },
+  {
+    title: "Te Amo Sem Compromisso",
+    artist: "MC Don Juan",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Te Amo Sem Compromisso.mp3",
+    cover: "https://i.postimg.cc/0Qr1qMNc/Te-Amo-Sem-Compromisso.webp"
+  },
+  {
+    title: "Veio pra Mudar",
+    artist: "MC Davi",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/FunkBR/Veio pra Mudar.mp3",
+    cover: "https://i.postimg.cc/05nPFwCq/Veio-pra-Mudar.webp"
+  }
   
 ];
