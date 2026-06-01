@@ -268,3 +268,21 @@ const playlist505 = [
 
 
 ];
+
+// Blue Sky
+const playlist537 = [
+{
+  title: "Despre tine",
+  artist: "O-Zone",
+  file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Blue Sky/Despre tine.mp3",
+  cover: "https://i.postimg.cc/nhDxyg1g/Despre-tine-cover-art.webp"
+},
+{
+  title: "Dragostea Din Tei",
+  artist: "O-Zone",
+  file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Blue Sky/Dragostea Din Tei.mp3",
+  cover: "https://i.postimg.cc/9MJHPhW0/Dragostea-Din-Tei-cover-art.webp"
+}
+
+
+];
