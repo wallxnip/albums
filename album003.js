@@ -172,6 +172,24 @@ const playlist502 = [
 // Wallker (REMIX)
 const playlist534 = [
 {
+  title: "Hislerim",
+  artist: "Serhat Durmus, Zerrin",
+  file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Hislerim.mp3",
+  cover: "https://i.postimg.cc/yYNGMgXr/Hislerim.webp"
+},
+{
+    title: "Invisible",
+    artist: "Julius Dreisig, Zeus X Crona",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Invisible.mp3",
+    cover: "https://i.postimg.cc/jjRwGqW1/Invisible-cover-art.webp"
+},
+{
+    title: "I Need Your Love",
+    artist: "Audio Vibes Alliance",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/I Need Your Love.mp3",
+    cover: "https://i.postimg.cc/Kc0NfVWz/I-Need-Your-Love-cover-art.webp"
+},
+{
     title: "Aetheris",
     artist: "Xenø Fader",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Aetheris.mp3",
@@ -238,12 +256,6 @@ const playlist534 = [
     cover: "https://i.postimg.cc/mgz8tw8T/Find-My-Way-cover-art.webp"
   },
   {
-    title: "I Need Your Love",
-    artist: "Audio Vibes Alliance",
-    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/I Need Your Love.mp3",
-    cover: "https://i.postimg.cc/Kc0NfVWz/I-Need-Your-Love-cover-art.webp"
-  },
-  {
     title: "I Still Need You",
     artist: "XZIO Music",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/I Still Need You.mp3",
@@ -254,12 +266,6 @@ const playlist534 = [
     artist: "Audio Vibes Alliance (feat. Yassine DJS)",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/I'll Be There.mp3",
     cover: "https://i.postimg.cc/SxCCBtgh/I-ll-Be-There-cover-art.webp"
-  },
-  {
-    title: "Invisible",
-    artist: "Julius Dreisig, Zeus X Crona",
-    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Wallker (REMIX)/Invisible.mp3",
-    cover: "https://i.postimg.cc/jjRwGqW1/Invisible-cover-art.webp"
   },
   {
     title: "Kiss Forever",
