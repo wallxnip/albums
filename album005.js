@@ -1,5 +1,11 @@
 // Funk (MIX)
 const playlist504 = [
+ {
+    title: "Coração Já Superou",
+    artist: "Mc Braian, Mc Arizinho, Vitin Do MT & MC CARLINN",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/MC Arizinho (LoveFunk)/Coração Já Superou.mp3",
+    cover: "https://lh3.googleusercontent.com/R-7VnbuxgTwCIpJKZXFyLZZXhrIm5q1X555SQyEdy1G-InnWSiB-73XGLb-APdcSKnNqdr9R-9RMvPUnbQ=w544-h544-l90-rj"
+   },
    {
     title: "Alegra",
     artist: "MC Arizinho",
