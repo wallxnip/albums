@@ -1,9 +1,15 @@
 // LATINA
 const playlist513 = [
   {
+    title: "Blin Blin",
+    artist: "DeGeA",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (Deluxe)/Blin Blin.mp3",
+    cover: "https://i.postimg.cc/TPSxFc6v/Blin-Blin.webp"
+  },
+  {
     title: "Sorry",
     artist: "Justin Bieber",
-    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina/Sorry.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Latina (Deluxe)/Sorry.mp3",
     cover: "https://i.postimg.cc/g0DQcZxR/Latina.webp"
   },
   {
